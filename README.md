@@ -8,7 +8,7 @@ This version is altered to be controlled by a Korg nanoKONTROL2.
 
 ----------------------------
 Cyrill Studer
-cyrillstuder.ch
+https://cyrillstuder.ch
 
 Lazar Jeremic
-lazarjeremic.ch
+https://lazarjeremic.ch
